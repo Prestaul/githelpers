@@ -2,7 +2,7 @@ This repository contains a collection of helper functions and aliases that will 
 
 First, clone the githelpers repository:
 ``` bash
-git clone git@github.com:nbroslawsky/githelpers.git ~/githelpers
+git clone git@github.com:Prestaul/githelpers.git ~/githelpers
 ```
 
 Run the following commands to set up your username and email globally.
